@@ -11,11 +11,15 @@ all the details about the requirements that we needed to implement.
 
 ## Program Description
 
-Here is a quick description of the program. There is a player which is controlled by the user, and you can tell the player to 
+There is a player which is controlled by the user, and you can tell the player to 
 move around in different rooms in the dungeon. The player can also interact with NPCs, acquire weapons and other useful items
 in their adventure to conquer the dungeon. You can save and load your progress in the game at any time. The goal of the game
 is to slay all 3 bosses hidden in the dungeon. Although getting to them requires a lot of battling weaker enemies till the player 
 is strong enough to face the bosses. There are some good NPCs that will also give you quests or better weapons, so keep an 
 eye out for them.
+
+## How to run the program
+
+Just go to the `Main` class and run the program from there.
 
 
